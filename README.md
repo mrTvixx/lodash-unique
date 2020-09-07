@@ -1,2 +1,3 @@
 # lodash-unique
-Created with CodeSandbox
+
+# Custom implementation of lodash methods
